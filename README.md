@@ -12,7 +12,7 @@ Building reliable applications for business-critical financial systems.
 
 ## 👩‍💻 About Me
 
--- Currently pursuing a **Master of Science in Business Technology and AI at The University of Texas at Austin**.
+- Currently pursuing a **Master of Science in Business Technology and AI at The University of Texas at Austin**.
 - Full-Stack Developer with **4 years of fintech experience**.
 - Skilled in building and delivering **business-critical stock exchange applications**.
 - Specializing in **Angular, Java, Spring Boot, and REST APIs**.
