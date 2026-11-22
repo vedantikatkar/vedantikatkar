@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Vedanti Katkar 👋</h1>
 
-<!--
-**vedantikatkar/vedantikatkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Full-Stack Developer | Java · Spring Boot · Angular</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building reliable applications for business-critical financial systems.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- Full-Stack Developer with **4 years of fintech experience**.
+- Skilled in building and delivering **business-critical stock exchange applications**.
+- Specializing in **Angular, Java, Spring Boot, and REST APIs**.
+- Additional hands-on experience in **React, Python, and MongoDB**.
+- Own features end-to-end, from requirements and development through production deployment.
+- Collaborate with cross-functional teams to deliver reliable, production-grade software.
+
+## 🛠️ Tech Stack
+
+**Frontend:** Angular · React  
+**Backend:** Java · Spring Boot · Python  
+**APIs:** REST APIs  
+**Database:** MongoDB  
+
+## 🚀 Projects
+
+- Hardware Rental Website
+
+## 🤝 Connect With Me
+
+[GitHub](https://github.com/vedantikatkar)
+[Linkedin](https://www.linkedin.com/in/vedanti-katkar/)
