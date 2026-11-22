@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Vedanti Katkar 👋</h1>
 
-<h3 align="center">Full-Stack Developer | Java · Spring Boot · Angular</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=36BCF7&center=true&vCenter=true&width=850&lines=Full-Stack+Developer+%7C+Angular+%C2%B7+Java+%C2%B7+Spring+Boot" alt="Full-Stack Developer | Angular · Java · Spring Boot" />
+</p>
 
 <p align="center">
 Building reliable applications for business-critical financial systems.
