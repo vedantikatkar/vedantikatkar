@@ -12,7 +12,7 @@ Building reliable applications for business-critical financial systems.
 
 ## 👩‍💻 About Me
 
-- Currently pursuing a **Master of Science in Business Technology and AI at The University of Texas at Austin**.
+- Currently pursuing a **Master of Science in Business Technology and AI at The University of Texas at Austin** , where I also serve as a **Student Ambassador**.
 - Full-Stack Developer with **4 years of fintech experience**.
 - Skilled in building and delivering **business-critical stock exchange applications**.
 - Specializing in **Angular, Java, Spring Boot, and REST APIs**.
@@ -39,5 +39,11 @@ Building reliable applications for business-critical financial systems.
 
 ## 🤝 Connect With Me
 
-[GitHub](https://github.com/vedantikatkar)
-[Linkedin](https://www.linkedin.com/in/vedanti-katkar/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/vedanti-katkar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/vedantikatkar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
