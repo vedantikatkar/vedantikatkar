@@ -26,7 +26,7 @@ Building reliable applications for business-critical financial systems.
 **Backend:** Java · Spring Boot · Python  
 **APIs:** REST APIs  
 **Database:** Oracle, MongoDB  
-**Version Control:** Git · SVN 
+**Version Control:** Git · SVN <br>
 **Tools:** VS Code · Eclipse IDE · Postman · Jira · Docker
 
 
