@@ -46,4 +46,7 @@ Building reliable applications for business-critical financial systems.
   <a href="https://github.com/vedantikatkar">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="mailto:vedantikatkar2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+  </a>
 </p>
