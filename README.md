@@ -27,6 +27,7 @@ Building reliable applications for business-critical financial systems.
 **APIs:** REST APIs  
 **Database:** Oracle, MongoDB  
 **Version Control:** Git · SVN
+
 **Tools:** VS Code · Eclipse IDE · Postman · Jira · Docker
 
 
