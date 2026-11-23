@@ -25,7 +25,10 @@ Building reliable applications for business-critical financial systems.
 **Frontend:** Angular · React  
 **Backend:** Java · Spring Boot · Python  
 **APIs:** REST APIs  
-**Database:** MongoDB  
+**Database:** Oracle, MongoDB  
+**Version Control:** Git · SVN
+**Tools:** VS Code · Eclipse IDE · Postman · Jira · Docker
+
 
 ## 🚀 Projects
 
